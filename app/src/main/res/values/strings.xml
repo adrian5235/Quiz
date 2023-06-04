@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start_quiz">Rozpocznij quiz</string>
+    <string name="statistics">Statystyki</string>
+    <string name="try_again">Spróbuj ponownie</string>
+    <string name="homepage">Strona główna</string>
+    <string name="learned_words">Nauczone słówka</string>
+    <string name="unlearned_words">Słówka do nauki</string>
+    <string name="progression_reset">Zresetuj postęp</string>
+    <string name="rules">Zasady</string>
+</resources>

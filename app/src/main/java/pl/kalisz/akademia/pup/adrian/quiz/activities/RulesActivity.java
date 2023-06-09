@@ -17,7 +17,7 @@ public class RulesActivity extends AppCompatActivity {
         setContentView(R.layout.activity_rules);
 
         TextView textViewRules = findViewById(R.id.textViewRules);
-        textViewRules.setText("Gdy dane słówko zostanie poprawnie przetłumaczone 3 razy z rzędu," +
-                " wówczas zostaje ono uznane za nauczone.");
+        textViewRules.setText("Gdy na dane pytanie zostanie poprawnie udzielona odpowiedź 3 razy z rzędu," +
+                " wówczas słówko/fraza zostaje uznane za nauczone.");
     }
 }

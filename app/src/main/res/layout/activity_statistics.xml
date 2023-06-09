@@ -48,5 +48,6 @@ android:gravity="center">
         android:layout_height="wrap_content"
         android:id="@+id/buttonReset"
         android:text="@string/progression_reset"
-        android:onClick="resetProgression" />
+        android:onClick="resetProgression"
+        android:layout_marginTop="10dp" />
 </LinearLayout>
